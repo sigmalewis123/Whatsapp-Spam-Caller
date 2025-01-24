@@ -1,4 +1,4 @@
-##YOU'll NEED TO UPDATE THE IMAGE PATH YOURSELF IN THE CODE
+## YOU'll NEED TO UPDATE THE IMAGE PATH YOURSELF IN THE CODE
 
 # Auto Call Answer and Hangup Script
 
@@ -23,3 +23,5 @@ To install the required libraries, use the following command:
 
 ```bash
 pip install pyautogui opencv-python
+```
+This readme was AI generated
