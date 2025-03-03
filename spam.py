@@ -21,9 +21,9 @@ def locate_and_click(image_path, confidence=0.9):
     return False
 
 if not os.path.exists(call_icon_path):
-    print("Call nonexistent!")
+    print("Call  image nonexistent!")
 if not os.path.exists(hangup_icon_path):
-    print("Hangup nonexistent!")
+    print("Hangup image nonexistent!")
 
 try:
     while True:
